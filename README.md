@@ -5,7 +5,7 @@ Um teste para medir suas habilidades com CSharp, e ver se você tem as habilidad
 
 #### Criar uma aplicação usando .Net 4.6 ou superior.
 - Aplicação deve gerenciar uma frota.
-- A frota contem um ou mais veículos.
+- A frota contém um ou mais veículos.
 
 #### Cada veículo deve conter: 
     
