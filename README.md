@@ -4,6 +4,8 @@ Um teste para medir suas habilidades com CSharp, e ver se você tem as habilidad
 ## Instruções
 
 #### Criar uma aplicação usando .Net 4.6 ou superior.
+
+- Pode ser uma console application
 - Aplicação deve gerenciar uma frota.
 - A frota contém um ou mais veículos.
 
@@ -56,8 +58,8 @@ Os veículos podem ser manipulados em memória.
 #### Observação: 
 
     Caso não saiba alguma das tecnologias abaixo. 
-    Sinta-se a vontade para utilizar os conhecimentos que você tem para solucionar o problema.
-    
+    Sinta-se a vontade para utilizar os conhecimentos que você tem para solucionar o problema.    
+       
     
 #### Desejáveis    
       Validação de campos.
@@ -72,4 +74,4 @@ Os veículos podem ser manipulados em memória.
       
 #### Envio
 
-Após finalizar criar um zip do projeto com o nome: **"csharptest-seunome.zip"** enviar para o email **beinlog@inlog.com.br**.
+Após enviar para o email **beinlog@inlog.com.br** o link do repositorio do github com seu projeto, além de seus dados de contato: Linkedin, Currículo.
