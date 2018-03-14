@@ -74,4 +74,4 @@ Os veículos podem ser manipulados em memória.
       
 #### Envio
 
-Após enviar para o email **beinlog@inlog.com.br** o link do repositorio do github com seu projeto, além de seus dados de contato: Linkedin, Currículo.
+Após finalizar, enviar para o email **beinlog@inlog.com.br** o link do repositorio do github com seu projeto, além de seus dados de contato: Linkedin e Currículo.
