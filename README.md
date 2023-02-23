@@ -3,9 +3,9 @@ Um teste para medir suas habilidades com CSharp, e ver se você tem as habilidad
 
 ## Instruções
 
-#### Criar uma aplicação usando .Net 4.6 ou superior.
+#### Criar uma aplicação usando C#.
 
-- Pode ser uma console application
+- Pode ser uma console application (Se a vaga for fullstack, o frontend deve ser web)
 - Aplicação deve gerenciar uma frota.
 - A frota contém um ou mais veículos.
 
